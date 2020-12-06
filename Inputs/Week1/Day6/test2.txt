@@ -1,0 +1,12 @@
+abcde
+ab
+abc
+abd
+
+defg
+d
+d
+
+a
+b
+c
